@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M_VideoRecovery", "M_VideoRecovery\M_VideoRecovery.csproj", "{021A46CF-6718-407E-9BAD-604D4B769946}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{5D68125D-4E31-4900-A510-8785EECB5115}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{021A46CF-6718-407E-9BAD-604D4B769946}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{021A46CF-6718-407E-9BAD-604D4B769946}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{021A46CF-6718-407E-9BAD-604D4B769946}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{021A46CF-6718-407E-9BAD-604D4B769946}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D68125D-4E31-4900-A510-8785EECB5115}.Debug|Any CPU.ActiveCfg = Debug
+		{5D68125D-4E31-4900-A510-8785EECB5115}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FA6B6CC-A460-49E7-823A-857A49B0F038}
+	EndGlobalSection
+EndGlobal
