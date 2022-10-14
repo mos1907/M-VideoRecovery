@@ -13,8 +13,8 @@ Don't be Afraid this application will help you recover your corrupted videos
 
 # Using
 
-* Select a Similar Working File (Example ; Same working file  which is taken from same camcorder) 
-* Select Broken,Damaged,Truncated Video file 
-* Select Destination folder Press Start Button... Now Your Video is ready for playing.
+* Select a Reference Working File (Example ; Same working file  which is taken from same camcorder) 
+* Select a Broken,Damaged,Truncated Video file 
+* Select a Destination folder Press Start Button... Now Your Video is ready for playing.
 
 By The vay You can Recovery GoPro,Sony XAVC,AVC,HEVC Video Files
